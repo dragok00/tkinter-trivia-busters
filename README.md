@@ -4,7 +4,6 @@ Welcome to *Trivia Busters*! This is a fun, interactive trivia quiz game built u
 
 ## Features
 - Multiple-choice trivia questions.
-- Timer to add pressure and excitement.
 - Simple, user-friendly interface.
 - Scoring system to track performance.
 
