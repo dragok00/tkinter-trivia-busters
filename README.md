@@ -1,6 +1,6 @@
 # Trivia Busters
 
-Welcome to *Trivia Busters*! This is a fun, interactive trivia quiz game built using Python and the Tkinter library. Test your knowledge with a variety of questions and challenge yourself to beat the clock!
+Welcome to *Trivia Busters*! This is a fun, interactive trivia quiz game built using Python and the Tkinter library.
 
 ## Features
 - Multiple-choice trivia questions.
